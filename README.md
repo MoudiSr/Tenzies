@@ -4,4 +4,4 @@
 
 ### Tenzies game using the popular React JS
 
-![react-logo](https://user-images.githubusercontent.com/40596420/219776062-3c001cc0-61c5-408e-820e-8351f49c630e.png =150x150)
+<img src="[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/40596420/219776062-3c001cc0-61c5-408e-820e-8351f49c630e.png)" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/40596420/219776062-3c001cc0-61c5-408e-820e-8351f49c630e.png)" width="200" height="400" />
